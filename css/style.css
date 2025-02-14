@@ -8,11 +8,31 @@ h1{
 p{
 
     font-family: 'Courier New', Courier, monospace;
-    font-style: italic;
-    font-weight: 700;
-    font-variant: small-caps;
-    font-size: 1em; /* 1em = 16px*/
-    /* font: italic 14px bold monospace; */
+
 }
 
+table,td{
+    border: 1px solid;
+    vertical-align: bottom;
+    padding: 8px;
+    border-collapse: collapse;
 
+}
+thead{
+    text-align: center;
+  
+}
+tr{
+    height: 40px;
+    
+}
+table{
+    width: 100%;
+}
+/* td:hover{
+    background-color: aqua;
+} */
+
+tr:nth-child(even){
+    background-color: aqua;
+}
