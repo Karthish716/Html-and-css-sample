@@ -4,8 +4,8 @@ body {
 
 
 h1{
-
     margin: inherit;
+    padding: 10px;
     width: 200px;
     border: 5px solid;
 }
