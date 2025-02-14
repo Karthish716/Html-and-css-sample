@@ -1,17 +1,16 @@
-body {
-    margin: 50px;
-}
 
 
 h1{
-    margin: inherit;
-    padding: 10px;
-    width: 200px;
-    border: 5px solid;
+    border: 2px solid;
+
 }
 
-
-
-
+p{
+    color: green;
+    background-color: beige;
+    text-decoration: overline;
+    text-transform: uppercase;
+    text-shadow: 5px 5px 5px red;
+}
 
 
