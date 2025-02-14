@@ -6,11 +6,13 @@ h1{
 }
 
 p{
-    color: green;
-    background-color: beige;
-    text-decoration: overline;
-    text-transform: uppercase;
-    text-shadow: 5px 5px 5px red;
+
+    font-family: 'Courier New', Courier, monospace;
+    font-style: italic;
+    font-weight: 700;
+    font-variant: small-caps;
+    font-size: 1em; /* 1em = 16px*/
+    /* font: italic 14px bold monospace; */
 }
 
 
